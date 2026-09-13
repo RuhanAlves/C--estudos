@@ -21,7 +21,7 @@ Projeto acadêmico desenvolvido utilizando:
 - Estruturas de repetição
 - Condicionais
 - Validação de entrada
-- `int.TryParse`
+- int.TryParse
 - Cálculos e médias
 - Organização de dados
 
